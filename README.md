@@ -29,7 +29,14 @@ The objectives of the National Museum are :
 - Exhibiting and utilizing national historical heritage artifacts for community education towards identity building and national development, and;
 - Making it one of the country’s tourism products.
 
+## Features and Functionalities
 
+1. Navigation bar - To facilitate the user to the desired page.
+2. Home page - Briefly explain about the national museum and some infos about the event that will be held.
+3. About Us page - Detail explaination about the national museum with its location.
+4. Contact information - Phone number and email.
+5. Buy Ticket page - User needs to give some personal information such as first name, last name, phone number, email, the number of tickets and date, Then, will proceed to the payment.
+6. Gallery page - Include some images and explainations of the treasures and attractions that are being displayed in the national museum as the sneak peek for the users.
 
 ## ERD Diagram
 
