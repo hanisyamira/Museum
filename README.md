@@ -17,17 +17,16 @@ Prepared By :
 
 ## Introduction
 
-The history of museums in Malaysia began in 1883 when the British government established the Perak Museum, Taiping. This was followed by the Sarawak Museum in Kuching in 1888 and subsequently Selangor Museum in 1906.
-
-The construction of the museum began in 1959 and has completed in August 1963. It was officially declared opened by His Majesty, the Third Yang di-Petuan Agong, Tuanku Syed Putra Al-Haj Ibni Almarhum Syed Hassan Jamalullail. 
+Our web application is to attract local and foreign tourists to visit the National Museum. In order to do that, we develop a booking ticket web system to ease the tourists. Hence, the tourists do not have to worry and disapoint if they could not buy the ticket on their desired time. 
 
 ## Objective
 
 The objectives of the National Museum are :
 
-- To carry out museum-related activities such as researching, collecting, recording and publishing all the treasures of the country's historical heritage;
-- Exhibiting and utilizing national historical heritage artifacts for community education towards identity building and national development, and;
-- Making it one of the country’s tourism products.
+- To facilitate the tourist in booking museum ticket
+- Encourage tourist especially foreign tourist in visiting the museum
+- Help the museum staff to handle the physical ticket buying
+- Reduce the crowdedness at the ticket counter
 
 ## Features and Functionalities
 
